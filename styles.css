@@ -1,0 +1,18 @@
+body {
+    background: green
+}
+
+.aguacate {
+    background-color: aquamarine;
+    padding: 5px;
+    border: black; 
+    margin: 10px;
+    
+}
+
+.Tuna {
+    background-color:bisque;
+    padding: 5px;
+    border:black;
+    margin: 10px;
+}
